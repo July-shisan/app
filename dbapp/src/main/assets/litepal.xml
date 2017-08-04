@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="msg"> </dbname>
+    <version value="1">  </version>
+    <list>
+        <mapping class="com.guohua.vo.News"></mapping>
+        <mapping class="com.guohua.vo.Category"></mapping>
+        <mapping class="com.guohua.vo.Comment"></mapping>
+        <mapping class="com.guohua.vo.Introduction"></mapping>
+    </list>
+</litepal>
